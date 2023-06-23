@@ -1,13 +1,12 @@
 # Sebastian Alvarez
 
-¡Hola! Soy Sebastian Alvarez, egresado del Centro Educativo Politécnico Virgen de la Altagracia (CEPVA). Me apasiona el desarrollo de aplicaciones y sistemas de información. Mi objetivo es aprender y mejorar constantemente mis habilidades en el campo del desarrollo.
+¡Hola! Soy Sebastian Alvarez, un apasionado desarrollador de aplicaciones y sistemas de información. Me gradué del Centro Educativo Politécnico Virgen de la Altagracia (CEPVA) y desde entonces he estado inmerso en el fascinante mundo del desarrollo.
 
 ## Sobre mí
 
-- 🔭 Actualmente me encuentro enfocado en aprender tecnologías que impulsen mi carrera como programador.
-- 🌱 Estoy particularmente interesado en el desarrollo web en el lado del servidor.
-- 👯 Me encanta colaborar en proyectos y aprender de otros desarrolladores.
-- 📫 Puedes contactarme a través de sebastianalvarezconcepcion@gmail.com.
+En mi búsqueda constante por aprender y mejorar, me dedico a explorar las últimas tecnologías y tendencias en el desarrollo de software. Mi objetivo es mantenerme al día con las mejores prácticas y aprovechar al máximo mis habilidades técnicas.
+
+Mi enfoque principal se encuentra en el desarrollo web en el lado del servidor, donde disfruto creando aplicaciones robustas y escalables. Siempre busco la elegancia en el código y la eficiencia en el rendimiento.
 
 ## Experiencia
 
@@ -20,15 +19,14 @@
 
 ## Habilidades
 
-- JavaScript (especialmente en el desarrollo web con Vanilla JS)
-- PHP
-- Git
-- C++
-- jQuery
+- Lenguajes de programación: JavaScript, PHP, C++
+- Bases de datos: MySQL, SQL SERVER
+- Control de versiones: Git
+- Metodologías ágiles: Scrum
 
 ## Educación
 
-- [2023] Desarrollo de aplicaciones y sistemas de información en el Centro Educativo Politécnico Virgen de la Altagracia
+- [2020-2023] Graduado en Desarrollo de Aplicaciones y Sistemas de Información, Centro Educativo Politécnico Virgen de la Altagracia
 
 ## Enlaces
 
