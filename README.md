@@ -19,7 +19,7 @@ Mi enfoque principal se encuentra en el desarrollo web en el lado del servidor, 
 
 ## Habilidades
 
-- Lenguajes de programación: JavaScript, PHP, C++
+- Lenguajes de programación: :javascript: JavaScript, PHP, C++
 - Bases de datos: MySQL, SQL SERVER
 - Control de versiones: Git
 - Metodologías ágiles: Scrum
