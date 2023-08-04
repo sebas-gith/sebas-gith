@@ -10,7 +10,7 @@ Mi enfoque principal se encuentra en el desarrollo web en el lado del servidor, 
 
 ## Experiencia
 
-- [2022 - Presente] Desarrollador de aplicaciones y sistemas de información en CENTRO EDUCATIVO POLITECNICO VIRGEN DE LA ALTAGRACIA
+- [2022 - 2023] Desarrollador de aplicaciones y sistemas de información en CENTRO EDUCATIVO POLITECNICO VIRGEN DE LA ALTAGRACIA
   - Programador backend con las tecnologias php y mysql, utilizando MVC.
 
 ## Proyectos destacados
@@ -19,11 +19,12 @@ Mi enfoque principal se encuentra en el desarrollo web en el lado del servidor, 
 
 ## Habilidades
 
-- Lenguajes de programación: :javascript: JavaScript, PHP, C++
-- Bases de datos: MySQL, SQL SERVER
+- Lenguajes de programación: JavaScript, PHP, C++
+- Bases de datos: MySQL, SQL, SERVER
 - Control de versiones: Git
 - Metodologías ágiles: Scrum
-
+- Sistemas operativos: Linux ubuntu, windows
+- 
 ## Educación
 
 - [2020-2023] Graduado en Desarrollo de Aplicaciones y Sistemas de Información, Centro Educativo Politécnico Virgen de la Altagracia
