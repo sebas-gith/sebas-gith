@@ -6,7 +6,7 @@ I'm student.
 
 [![X (formerly Twitter) Follow](https://img.shields.io/twitter/follow/SebastianAlvaz?style=social)](https://twitter.com/SebastianAlvaz)
 [![Linkedin: Sebastian G. Alvarez C.](https://img.shields.io/badge/-Sebastian_G._Alvarez_C.-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/sebastian-g-alvarez-c-99744b20a/)](https://www.linkedin.com/in/sebastian-g-alvarez-c-99744b20a/)
-[![](https://img.shields.io/badge/sebas206-red?style=flat-square&logo=codewars&logoColor=black)](mailto:sebastianalvarezconcepcion@gmail.com)
+[![](https://img.shields.io/badge/sebas206-red?style=flat-square&logo=codewars&logoColor=black)]([mailto:sebastianalvarezconcepcion@gmail.com](https://www.codewars.com/users/sebas206))
 [![](https://img.shields.io/badge/sebastianalvarezconcepcion@gmail.com-white?style=flat-square&logo=gmail)](mailto:sebastianalvarezconcepcion@gmail.com)
 [![](https://img.shields.io/badge/Sebas03-white?style=flat-square&logo=Lichess&logoColor=black)](https://lichess.org/@/Sebas03)
 [![](https://img.shields.io/badge/viciousvariants7-chess.com-darkgreen?style=flat-square&logo=chess&logoColor=black)](https://www.chess.com/member/viciousvariants7)
