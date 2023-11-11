@@ -23,7 +23,7 @@ I'm student.
   <img height="30" src="https://img.shields.io/badge/PHP-white?style=flat-square&logo=php" alt="php" style="vertical-align:top; margin:4px; border-radius: 5px">
     <img height="30" src="https://img.shields.io/badge/MySQL-black?style=flat-square&logo=mysql" alt="MySQL" style="vertical-align:top; margin:4px; border-radius: 5px">
     <img height="30" src="https://img.shields.io/badge/Excel-white?style=flat-square&logo=microsoftexcel&logoColor=darkgreen" alt="Excel" style="vertical-align:top; margin:4px; border-radius: 5px">
-     <img height="30" src="https://img.shields.io/badge/Windows-white?style=flat-square&logo=windows10&logoColor=blue" alt="Excel" style="vertical-align:top; margin:4px; border-radius: 5px">
+     <img height="30" src="https://img.shields.io/badge/Windows-white?style=flat-square&logo=windows10&logoColor=blue" alt="Excel" style="vertical-align:top; margin:4px; border-radius: 5px; border: 1px solid">
 
 
  
@@ -31,5 +31,4 @@ I'm student.
 
 ## Last repos
 
-![](./imgs/codember.png)
-![](./imgs/fullstackopen.png)
+![](./imgs/codember.png)![](./imgs/fullstackopen.png)
