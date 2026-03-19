@@ -8,7 +8,7 @@
 
 - Location: **Santo Domingo, Dominican Republic**.
 
-- Studying: **Software Development & Computer Science fundamentals**.
+- Studying: **Software Development Technologist at ITLA**.
 
 - System: **Windows**, **Kali Linux**, and virtualization environments.
 
