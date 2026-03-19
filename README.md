@@ -35,7 +35,7 @@
 </p>
  
 
-## Languages and tools
+## Arsenal
 
 <p align="center">
 
