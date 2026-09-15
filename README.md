@@ -1,6 +1,10 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a0f0a,30:5a1e1e,60:b88a3b,100:2b2b2b&height=200&section=header&text=Sebastian%20Alvarez&fontSize=50&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Software%20Development%20%7C%20Cyber%20Security%20%7C%20GNU/Linux%20Enthusiast&descSize=16&descAlignY=55" width="100%"/>
 
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=435&lines=2%3E%2Fdev%2Fnull%2FSebastian%20Alvarez;Programador%20Jr." alt="Nombre animado" />
+</div>
+
 
 <p align="center"><img src="https://i.imgur.com/A6bWGFl.gif"/></p>
 
